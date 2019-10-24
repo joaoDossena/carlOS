@@ -6,7 +6,7 @@ This is a personal project to build an OS from scratch with the purpose of learn
 ## To do:
 - [x] 00 - Environment
 - [x] 01 - Bootsector Barebones
-- [ ] 02 - Bootsector Print
+- [x] 02 - Bootsector Print
 - [ ] 03 - Bootsector Memory
 - [ ] 04 - Bootsector Stack
 - [ ] 05 - Bootsector Functions Strings

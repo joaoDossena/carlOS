@@ -3,7 +3,7 @@ _The most useless operating system_
 
 This is a personal project to build an OS from scratch with the purpose of learning some useful things. Its base comes from [here](https://github.com/cfenollosa/os-tutorial).
 
-##To do:
+## To do:
 - [ ] 00 - Environment
 - [ ] 01 - Bootsector Barebones
 - [ ] 02 - Bootsector Print

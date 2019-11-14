@@ -4,6 +4,7 @@ _The most useless operating system_
 This is a personal project to build an OS from scratch with the purpose of learning some useful things. Its base comes from [here](https://github.com/cfenollosa/os-tutorial).
 
 ## To do:
+
 - [x] 00 - Environment [(original)](https://github.com/cfenollosa/os-tutorial/tree/master/00-environment)
 - [x] 01 - Bootsector Barebones [(original)](https://github.com/cfenollosa/os-tutorial/tree/master/01-bootsector-barebones)
 - [x] 02 - Bootsector Print [(original)](https://github.com/cfenollosa/os-tutorial/tree/master/02-bootsector-print)
@@ -29,4 +30,3 @@ This is a personal project to build an OS from scratch with the purpose of learn
 - [ ] 22 - Malloc [(original)](https://github.com/cfenollosa/os-tutorial/tree/master/22-malloc)
 - [ ] 23 - Fixes [(original)](https://github.com/cfenollosa/os-tutorial/tree/master/23-fixes)
 - [ ] 24 - El Capitan [(original)](https://github.com/cfenollosa/os-tutorial/tree/master/24-el-capitan)
-
